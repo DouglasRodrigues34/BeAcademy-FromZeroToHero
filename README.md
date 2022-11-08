@@ -15,3 +15,52 @@
 * Vamos formar novos talentos como Dev low code que tenham interesse no universo da tecnologia, e acreditem, assim como nós que a tecnologia vem como aliada para melhorar as relações humanas!
 * E se você é um jovem em situação de vulnerabilidade socioeconômica, esse programa também é para você!
 * Queremos democratizar o acesso à educação de qualidade e ter você conosco! Nosso programa é inclusivo e visa gerar mais oportunidades para que você tenha acesso ao mundo da tecnologia.
+
+# Softskills e Metodologia Ágil
+
+### A diferença entre a velha economia e nova economia
+
+* A velha economia está relacionada ao verbo vender. Já a nova economia está relacionada ao verbo lucrar. Se você tem conhecimento sobre vendas, deve saber que na última semana do mês, quando a empresa precisa bater as metas, geralmente são feitas promoções.
+
+### Como aprender tecnologia
+
+* A única certeza é a mudança
+* O que é aprender
+* Formas de aprender
+* Ferramentas
+* Criando uma mentalidade de auto direção
+* Protagonismo
+* Como paroveitar o programa
+
+### Comunicação assertiva
+
+* Compreender o outro
+* Comunicar com valor
+* Inovar para criar soluções
+* O modelo de comunicação
+
+### Cultura e times ágeis
+
+* Projeto/waterfall
+* Agil/scrum
+* Kanban
+* Lean
+* Priorização
+* Na pratica
+
+# Excel Básico e Intermediário
+
+* Ferramentas de formatação
+* Formatação de informação
+* Filtro e classificação
+* Cálculos
+* Cálculos com porcentagens
+* Função SE
+* Alça de preenchimento
+* Funções básicas
+* Funções contagem
+* Função PROCV
+* Função PROCX
+* Graficos
+
+# Git e Github
