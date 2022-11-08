@@ -75,7 +75,6 @@ https://github.com/DouglasRodrigues34/BeAcademy-FromZeroToHero-Git-Github
 * GitHub - Considerações finais
 
 # HTML
-https://github.com/DouglasRodrigues34/BeAcademy-FromZeroToHero-HTML
 
 * O que é HTML
 * Atributos e atributos globais
@@ -98,3 +97,60 @@ https://github.com/DouglasRodrigues34/BeAcademy-FromZeroToHero-HTML
    - Input (select, search e file)
    - Textarea e optgroup
  * SEO
+
+# CSS
+ 
+ * Conhecendo o CSS
+ * Origem
+ * Fluxo d eleitura e especificidade
+ * At rules e combinators
+ * Shorthand e margin
+ * Vendor prefix
+ * Unidades de medidas
+ * Dicas para design responsivo
+ * Page layout
+     - Positions
+     - Entendendo o display e flex
+     - Grid
+ * Colors e background
+ * A beleza dos textos
+ * Pseudo class e element
+ * Design responsivo
+ 
+ # Lógica de programação
+ 
+* Conceito de lógica e algoritmos
+* VisuALG e variáveis
+* Constantes, comandos de atribuição e comentários
+* Operadores aritméticos, relacionais, lógicos, caracteres, leitura e saída de dados
+* Se, senão se e senão
+* Switch-case
+* Estrutura de repetição
+   - For (para)
+   - While (enquanto)
+   - Do while (enquanto repita-até)
+* Estruturas de dados
+* Matriz
+
+# Introdução ao banco de dados
+
+* O que é banco de dados
+* Estrutura de um banco de dados
+* Entendendo a estrutura de um banco de dados
+* Linguagem SQL
+* Modelo relacional
+* SQL na prática
+
+# JavaScript básico
+
+* Primeiros passos
+* Tipo de dados
+* Varáveis
+* Praticando
+* Função
+* Manipulando dados (string e array)
+* Operadores
+* Controle de condições
+   - (if... else e switch)
+   - (throw e try and catch)
+* Estrutura de repetição
