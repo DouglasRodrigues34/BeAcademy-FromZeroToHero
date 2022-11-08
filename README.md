@@ -73,3 +73,28 @@ https://github.com/DouglasRodrigues34/BeAcademy-FromZeroToHero-Git-Github
 * GitHub - Configuração
 * GitHub - Criando repositório
 * GitHub - Considerações finais
+
+# HTML
+https://github.com/DouglasRodrigues34/BeAcademy-FromZeroToHero-HTML
+
+* O que é HTML
+* Atributos e atributos globais
+* Aninhamento de tags e caractere reservado
+* Autonomia de um documento HTML e semântica
+* Títulos e parágrafos
+* Listas ordenadas e não ordenadas e citações
+* Abreviação e elementos
+* Links
+* Navegação entre diretórios
+* Tabelas
+* Imagens
+* Imagens SVG
+* Formulários
+   - Button
+   - Label e datalis
+   - Input (text, number e email)
+   - Input (passowrd, hidden color e date)
+   - Input (check e radio)
+   - Input (select, search e file)
+   - Textarea e optgroup
+ * SEO
