@@ -120,7 +120,8 @@ https://github.com/DouglasRodrigues34/BeAcademy-FromZeroToHero-CSS
  * Design responsivo
  
  # Lógica de programação
- 
+https://github.com/DouglasRodrigues34/BeAcademy-FromZeroToHero-Logica-de-Programacao
+
 * Conceito de lógica e algoritmos
 * VisuALG e variáveis
 * Constantes, comandos de atribuição e comentários
