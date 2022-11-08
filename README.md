@@ -100,7 +100,8 @@ https://github.com/DouglasRodrigues34/BeAcademy-FromZeroToHero-HTML
  * SEO
 
 # CSS
- 
+https://github.com/DouglasRodrigues34/BeAcademy-FromZeroToHero-CSS
+
  * Conhecendo o CSS
  * Origem
  * Fluxo d eleitura e especificidade
