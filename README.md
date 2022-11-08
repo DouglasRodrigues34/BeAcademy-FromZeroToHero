@@ -75,6 +75,7 @@ https://github.com/DouglasRodrigues34/BeAcademy-FromZeroToHero-Git-Github
 * GitHub - Considerações finais
 
 # HTML
+https://github.com/DouglasRodrigues34/BeAcademy-FromZeroToHero-HTML
 
 * O que é HTML
 * Atributos e atributos globais
