@@ -145,6 +145,7 @@ https://github.com/DouglasRodrigues34/BeAcademy-FromZeroToHero-Logica-de-Program
 * SQL na prática
 
 # JavaScript básico
+https://github.com/DouglasRodrigues34/BeAcademy-FromZeroToHero-JavaScript
 
 * Primeiros passos
 * Tipo de dados
