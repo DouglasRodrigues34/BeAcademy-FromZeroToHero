@@ -158,3 +158,6 @@ https://github.com/DouglasRodrigues34/BeAcademy-FromZeroToHero-JavaScript
    - (if... else e switch)
    - (throw e try and catch)
 * Estrutura de repetição
+
+# JavaScript Intermediário
+https://github.com/DouglasRodrigues34/BeAcademy-FromZeroToHero-JavaScript-Intermediario
