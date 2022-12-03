@@ -176,3 +176,12 @@ https://github.com/DouglasRodrigues34/BeAcademy-FromZeroToHero-JavaScript-Interm
 * Try / Catch
 * Rest Spread - Destructuring
 * Recursion
+
+# Solid
+https://github.com/DouglasRodrigues34/BeAcademy-FromZeroToHero-Solid
+
+* Single Responsability Principle
+* Open Closed Principle
+* Liskov Substitution Principle
+* Interface Segregation Principle
+* Dependency Inversion Principle
