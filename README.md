@@ -185,3 +185,10 @@ https://github.com/DouglasRodrigues34/BeAcademy-FromZeroToHero-Solid
 * Liskov Substitution Principle
 * Interface Segregation Principle
 * Dependency Inversion Principle
+
+# Projeto final
+https://github.com/DouglasRodrigues34/BeAcademy-FromZeroToHero-Projeto-Final
+
+* Projeto excel
+* Projeto landing page
+* Projeto Banco de dados MYSQL
