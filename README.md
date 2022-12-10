@@ -190,5 +190,10 @@ https://github.com/DouglasRodrigues34/BeAcademy-FromZeroToHero-Solid
 https://github.com/DouglasRodrigues34/BeAcademy-FromZeroToHero-Projeto-Final
 
 * Projeto excel
+
+
 * Projeto landing page
+
+
 * Projeto Banco de dados MYSQL
+https://github.com/DouglasRodrigues34/BeAcademy-FromZeroToHero-Projeto-Final/tree/main/projeto-banco-de-dados
