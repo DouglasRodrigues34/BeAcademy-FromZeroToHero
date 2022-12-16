@@ -190,10 +190,42 @@ https://github.com/DouglasRodrigues34/BeAcademy-FromZeroToHero-Solid
 https://github.com/DouglasRodrigues34/BeAcademy-FromZeroToHero-Projeto-Final
 
 * Projeto excel
-* 
+* https://github.com/DouglasRodrigues34/BeAcademy-FromZeroToHero-Projeto-Final/tree/main/projeto-excel
+
+* Seleção e manipulação de intervalos,
+* Formatação por tipos de células (texto, número, hora, percentual etc),
+* Formatação condicional,
+* Gráfico,
+* Classificação e filtro,
+* Fórmulas,
+* Funções,
+* Procs,
+* Tabela dinâmica
 
 * Projeto landing page
-* 
+* https://github.com/DouglasRodrigues34/BeAcademy-FromZeroToHero-Projeto-Final/tree/main/landing-page
+
+* Semantica,
+* Titulo,
+* Paragrafos,
+* Listas,
+* Navegação,
+* Links,
+* Tabela,
+* Imagens,
+* Formulário,
+* SEO,
+* Responsivo,
+* Validação de campos,
+* Mascara de campos,
+* Manipulação de DOM * efeitos javascript
+* Condições(Try & Catch),
+* Promisses,
+* Loop,
+* Funções
+* SOLID
 
 * Projeto Banco de dados MYSQL
-*
+* https://github.com/DouglasRodrigues34/BeAcademy-FromZeroToHero-Projeto-Final/tree/main/projeto-banco-de-dados
+
+Neste projeto são colocadas em prática as bases fundamentais na criação de um banco de dados, deixando conhecimentos básicos, mas importantes após a sua finalização. Criado em MySQL Workbench.
