@@ -196,4 +196,4 @@ https://github.com/DouglasRodrigues34/BeAcademy-FromZeroToHero-Projeto-Final
 * 
 
 * Projeto Banco de dados MYSQL
-* https://github.com/DouglasRodrigues34/BeAcademy-FromZeroToHero-Projeto-Final/tree/main/projeto-banco-de-dados
+*
