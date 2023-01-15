@@ -1,5 +1,9 @@
 # From Zero to Hero
 
+
+![certificado](https://user-images.githubusercontent.com/110262864/212515260-ddbfdb58-b276-4e7b-84be-20676dbb1050.jpg)
+
+
 ## O que é o programa?
 
 ### Muitas vagas, poucos profissionais qualificados.
